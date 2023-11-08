@@ -1,0 +1,29 @@
+.hp-color {
+  background: darkcyan;
+  background-color: maroon;
+  color: goldenrod;
+}
+.center-text {
+  text-align: center;
+}
+.center-div {
+  justify-content:center;
+  gap:2px;
+  text-align:center;
+}
+.full-height {
+  height: 100%
+}
+table {
+  border-radius: 15px;
+  border-collapse:collapse;
+  overflow:hidden;
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+}
+.center {
+  width:80%;
+  margin-left:auto;
+  margin-right:auto;
+}
